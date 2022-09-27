@@ -1,2 +1,2 @@
-![Image](Screenshot(92).png)
+![Image](mylabpic.png)
 
