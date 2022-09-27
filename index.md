@@ -1,5 +1,8 @@
 Hello, world!
 
+# go to my lab page
+[Link](https://stareen1.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
+
 *This should be in italics*
 
 **This should be in bold text**
