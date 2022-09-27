@@ -22,7 +22,8 @@ Hello, world!
 2. a number
 3. list:)
 
---- Horizontal Rule
+Horizontal Rule
+--- 
 
 `This is inline code`
 
