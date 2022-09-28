@@ -3,7 +3,7 @@ Hello, world!
 # go to my lab page
 [Link](https://stareen1.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
 
-theme: Time machine
+theme: Merlot
 
 *This should be in italics*
 
