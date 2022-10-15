@@ -63,17 +63,20 @@ class SearchEngine {
 
 ![Image](addedbluestring.png)
 *Methods called:* First the main method was called and then handleRequest.
+
 *Arguments and Fields:* When I called the main method, this passed in the argument of the port that was used in order to run the server. The argument 4000 was passed in and opened the port and created a new Handler. This caused the handleRequest method to be called using the url of the new web server created. This method checked the path of the web server which contained "/add" and then used query and the "=" delimeter to determine which String to add to the ArrayList field stringList. The string "blue" was added to it. 
 
 ![Image](printedstringlist.png)
 *Methods called:* handleRequest
+
 *Arguments and Fields:* The handleRequest method handled a different url this time with the root path "/" causing the website to print out every string in the ArrayList. I had already added the strings "anewStringtoadd", "blue", and "black" to the ArrayList stringList before using the "/add" path. 
 
 ![Image](searchforblstrings.png)
 *Methods called:* handleRequest
+
 *Arguments and Fields:* The handleRequest method handled a different url with a different path "/search" and a query. The method parsed the query using the "=" delimeter to find which substring to search for in the ArrayList stringList, which in this example was "bl". The method then searched through each string that contains the substring in stringList and prints them out in a statement to the web server. 
 
-##Part 2##
+##Part 2
 
 **Debugging**
 The failure-inducing input (the code of the test)
