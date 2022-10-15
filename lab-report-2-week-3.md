@@ -79,10 +79,7 @@ class SearchEngine {
 ## Part 2
 
 **Debugging**
-The failure-inducing input (the code of the test)
-The symptom (the failing test output)
-The bug (the code fix needed)
-Then, explain the connection between the symptom and the bug. Why does the bug cause that particular symptom for that particular input?
+
 *Testing the method reversed in ArrayExamples.java*
 1. Failure-inducing input: I passed in the array {1, 2, 3} into the method reversed
 ```
