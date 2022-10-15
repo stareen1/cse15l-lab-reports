@@ -76,7 +76,7 @@ class SearchEngine {
 
 *Arguments and Fields:* The handleRequest method handled a different url with a different path "/search" and a query. The method parsed the query using the "=" delimeter to find which substring to search for in the ArrayList stringList, which in this example was "bl". The method then searched through each string that contains the substring in stringList and prints them out in a statement to the web server. 
 
-##Part 2
+## Part 2
 
 **Debugging**
 The failure-inducing input (the code of the test)
